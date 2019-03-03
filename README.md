@@ -76,8 +76,8 @@ make test
 ### MNSIT Dataset t-SNE visualisation
 Gives a clustering accuracy of 70.4%
 <p float="left">
-  <img src="images/mnist_orig" width="420" />
-  <img src="images/mnist_dl" width="420" /> 
+  <img src="/images/mnist_orig.png" width="420" />
+  <img src="/images/mnist_dl.png" width="420" /> 
 </p>
 <pre> |          Original                     |            Prediction       | </pre>
 
@@ -85,7 +85,7 @@ Gives a clustering accuracy of 70.4%
 ### FMNIST Dataset
 Gives a clustering accuracy of 53.8%
 <p float="left">
-  <img src="images/fmnist_orig" width="420" />
-  <img src="images/fmnist_dl" width="420" /> 
+  <img src="/images/fmnist_orig.png" width="420" />
+  <img src="/images/fmnist_dl.png" width="420" /> 
 </p>
 <pre> |          Original                     |            Prediction       | </pre>
