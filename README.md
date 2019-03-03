@@ -70,3 +70,22 @@ pip install -r requirements.txt
 ```bash
 make test
 ```
+
+## Results
+
+### MNSIT Dataset t-SNE visualisation
+Gives a clustering accuracy of 70.4%
+<p float="left">
+  <img src="images/mnist_orig" width="420" />
+  <img src="images/mnist_dl" width="420" /> 
+</p>
+<pre> |          Original                     |            Prediction       | </pre>
+
+
+### FMNIST Dataset
+Gives a clustering accuracy of 53.8%
+<p float="left">
+  <img src="images/fmnist_orig" width="420" />
+  <img src="images/fmnist_dl" width="420" /> 
+</p>
+<pre> |          Original                     |            Prediction       | </pre>
