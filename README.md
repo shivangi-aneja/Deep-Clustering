@@ -79,7 +79,7 @@ Gives a clustering accuracy of 70.4%
   <img src="/images/mnist_orig.png" width="420" />
   <img src="/images/mnist_dl.png" width="420" /> 
 </p>
-<pre> |          Original Clusters                     |                 Clustering In Latent Space                   | </pre>
+<pre> |          Original Clusters                |                 Clustering In Latent Space                   | </pre>
 
 
 ### FMNIST Dataset
@@ -88,4 +88,4 @@ Gives a clustering accuracy of 53.8%
   <img src="/images/fmnist_orig.png" width="420" />
   <img src="/images/fmnist_dl.png" width="420" /> 
 </p>
-<pre> |          Original                             |                  Clustering In Latent Space       | </pre>
+<pre> |          Original                         |                  Clustering In Latent Space       | </pre>
